@@ -7,3 +7,4 @@ Toggle Network Connection with Hotkey
 - As Default it toggles the network adapter "Ethernet" but if you use a different adapter name just edit it in the code. (Here def toggle_network_connection(interface_name="Ethernet")) 
 - Now you can run Ethernet.bat and ready to go.
 - Default hotkey is SHIFT + X
+- Pressing Escape will stop the script
